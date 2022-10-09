@@ -1,0 +1,17 @@
+================ Training Loss (Thu Sep 22 02:25:12 2022) ================
+(epoch: 1, iters: 100, time: 0.496, data: 0.596) G_GAN: 0.309 D_real: 0.238 D_fake: 0.242 G: 0.758 HDCE: 0.445 HDCE_Y: 0.439 SRC: 0.007 
+(epoch: 1, iters: 200, time: 0.693, data: 0.013) G_GAN: 0.345 D_real: 0.204 D_fake: 0.239 G: 0.791 HDCE: 0.409 HDCE_Y: 0.403 SRC: 0.040 
+(epoch: 1, iters: 300, time: 0.827, data: 0.010) G_GAN: 0.302 D_real: 0.315 D_fake: 0.200 G: 0.609 HDCE: 0.276 HDCE_Y: 0.287 SRC: 0.025 
+(epoch: 1, iters: 400, time: 0.918, data: 0.014) G_GAN: 0.327 D_real: 0.324 D_fake: 0.275 G: 0.616 HDCE: 0.284 HDCE_Y: 0.261 SRC: 0.017 
+(epoch: 1, iters: 500, time: 0.979, data: 0.013) G_GAN: 0.330 D_real: 0.199 D_fake: 0.275 G: 0.596 HDCE: 0.210 HDCE_Y: 0.264 SRC: 0.028 
+(epoch: 1, iters: 600, time: 1.028, data: 0.011) G_GAN: 0.199 D_real: 0.346 D_fake: 0.188 G: 0.441 HDCE: 0.195 HDCE_Y: 0.241 SRC: 0.025 
+(epoch: 1, iters: 700, time: 1.057, data: 0.018) G_GAN: 0.273 D_real: 0.291 D_fake: 0.358 G: 0.514 HDCE: 0.233 HDCE_Y: 0.195 SRC: 0.027 
+(epoch: 1, iters: 800, time: 1.069, data: 0.011) G_GAN: 0.272 D_real: 0.220 D_fake: 0.298 G: 0.572 HDCE: 0.291 HDCE_Y: 0.195 SRC: 0.057 
+(epoch: 1, iters: 900, time: 1.077, data: 0.009) G_GAN: 0.226 D_real: 0.226 D_fake: 0.379 G: 0.490 HDCE: 0.289 HDCE_Y: 0.187 SRC: 0.026 
+(epoch: 1, iters: 1000, time: 1.083, data: 0.020) G_GAN: 0.337 D_real: 0.224 D_fake: 0.193 G: 0.568 HDCE: 0.254 HDCE_Y: 0.170 SRC: 0.019 
+(epoch: 1, iters: 1100, time: 1.087, data: 0.011) G_GAN: 0.249 D_real: 0.266 D_fake: 0.229 G: 0.454 HDCE: 0.182 HDCE_Y: 0.180 SRC: 0.024 
+(epoch: 1, iters: 1200, time: 1.092, data: 0.016) G_GAN: 0.219 D_real: 0.231 D_fake: 0.270 G: 0.471 HDCE: 0.259 HDCE_Y: 0.193 SRC: 0.026 
+(epoch: 1, iters: 1300, time: 1.095, data: 0.010) G_GAN: 0.198 D_real: 0.269 D_fake: 0.237 G: 0.432 HDCE: 0.234 HDCE_Y: 0.163 SRC: 0.035 
+(epoch: 2, iters: 66, time: 1.108, data: 0.011) G_GAN: 0.298 D_real: 0.434 D_fake: 0.117 G: 0.458 HDCE: 0.142 HDCE_Y: 0.144 SRC: 0.017 
+(epoch: 2, iters: 166, time: 1.116, data: 0.011) G_GAN: 0.331 D_real: 0.212 D_fake: 0.288 G: 0.523 HDCE: 0.195 HDCE_Y: 0.148 SRC: 0.021 
+(epoch: 2, iters: 266, time: 1.122, data: 0.007) G_GAN: 0.371 D_real: 0.238 D_fake: 0.306 G: 0.558 HDCE: 0.150 HDCE_Y: 0.169 SRC: 0.027 
