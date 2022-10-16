@@ -5,8 +5,8 @@ node_modules/
 .DS_Store
 debug*
 # *datasets/
-checkpoints/
-results/
+# checkpoints/
+# results/
 build/
 dist/
 *.png
